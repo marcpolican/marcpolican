@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently the Engineering Director and Co-founder at Altitude Games Pte. Ltd. Everything tech related is under my department. I manage and mentor a team of talented engineers who specialize in making games using Unity.
+
+I'm currently learning and exploring WebGL game engines and blockchain game development.
+
 <!--
 **marcpolican/marcpolican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
