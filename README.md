@@ -7,6 +7,7 @@ I'm currently learning and exploring WebGL game engines and blockchain game deve
 - [LinkedIn](https://www.linkedin.com/in/marc-anthony-polican/)
 - [Github](https://github.com/marcpolican)
 - [Twitter](https://twitter.com/pocanman)
+- [Blog](https://marcpolican.github.io/)
 
 <!--
 **marcpolican/marcpolican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
