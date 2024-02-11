@@ -4,10 +4,12 @@ I'm currently the Engineering Director and Co-founder at Altitude Games Pte. Ltd
 
 I'm currently learning and exploring WebGL game engines and blockchain game development.
 
-- [LinkedIn](https://www.linkedin.com/in/marc-anthony-polican/)
-- [Github](https://github.com/marcpolican)
-- [Twitter](https://twitter.com/pocanman)
-- [Blog](https://marcpolican.github.io/)
+- :arrow_forward: [Demo Reel](https://youtu.be/o0ve-tYbY5k?si=jSkMo8Vlo71kB460)
+- 📖 [Portfolio](https://marcpolican.github.io/portfolio)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/marc-anthony-polican/)
+- :octocat: [Github](https://github.com/marcpolican)
+- 🐤 [Twitter](https://twitter.com/pocanman)
+
 
 <!--
 **marcpolican/marcpolican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
